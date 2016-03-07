@@ -1,0 +1,7 @@
+C:\Users\Juan\Documents\class\OxigenClass\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+C:\Users\Juan\Documents\class\OxigenClass\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+C:\Users\Juan\Documents\class\OxigenClass\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+C:\Users\Juan\Documents\class\OxigenClass\RestaurantManagement\RestaurantManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juan\Documents\class\OxigenClass\RestaurantManagement\RestaurantManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juan\Documents\class\OxigenClass\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+C:\Users\Juan\Documents\class\OxigenClass\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
